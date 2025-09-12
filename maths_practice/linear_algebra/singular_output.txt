@@ -1,0 +1,7 @@
+Matrix:
+[[1. 2. 3.]
+ [0. 1. 4.]
+ [5. 6. 0.]]
+shape=(3, 3)
+method=Gaussian elimination with partial pivoting
+Result: Not singular
